@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-top-togel.github.io/sitemap.xml
